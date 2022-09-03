@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "dependencies": {
+    "csv": "^6.2.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.10",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "a2",
+  "description": "All the urls are being hosted on the local server, \r and hence this file shall need a localhost to work properly",
+  "version": "1.0.0",
+  "main": "translink-parser.js",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
